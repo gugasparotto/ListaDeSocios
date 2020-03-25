@@ -1,0 +1,21 @@
+ table thead td{
+    width: 30%;
+    background: #73C892;
+    color:white;
+     min-width: 300px;
+    height: 40px;
+    text-align:center;
+}
+
+table tbody td{
+    min-width: 300px;
+    width: 30%;
+    height: 40px;
+    text-align:center;
+    color:white;
+    background: #73C892;
+}
+
+.apagar{
+    display: none;
+}
